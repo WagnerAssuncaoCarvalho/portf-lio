@@ -223,6 +223,7 @@ body {
     
     .navegacao {
         padding: 10%;
+
     }
 
     .navegacao__itens {
@@ -230,15 +231,18 @@ body {
     }
     .apresentacao {
         flex-direction: column;
-        padding: 5%;
-        margin: 5% 10%;
+        padding: 3%;
+        margin: 3% 3%;
     }
     .apresentacao__conteudo {
         width: auto;
     }
+    .apresentacao__conteudo__titulo1{
+        margin-top: 0;
+    }
 
     .apresentacao_imagem {
-        width: 70%;
+        width: 80%;
     } 
 
     .apresentacao__links__navegacao{
