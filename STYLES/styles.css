@@ -222,8 +222,9 @@ body {
 @media (max-width: 1200px) {
     
     .navegacao {
-        padding: 10%;
+        padding: 2%;
     }
+
     .navegacao__itens {
         justify-content: center;
     }
@@ -240,4 +241,12 @@ body {
         width: 70%;
     } 
 
+    .apresentacao__links__navegacao{
+        width: 90%;
+        font-size: medium;
+    } 
+
+    .apresentacao__links__navegacao__icones{
+        width: 50px;
+    }
 }
